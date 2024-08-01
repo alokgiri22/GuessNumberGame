@@ -1,8 +1,7 @@
-// # GuessNumberGame 
+ # GuessNumberGame 
 <br>
 
 import java.util.Scanner;
-
 class game{
     private int secretNumber;
     private int attempts;
